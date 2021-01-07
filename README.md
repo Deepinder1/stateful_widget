@@ -1,6 +1,6 @@
 # stateful_widget
 
-A new Flutter project.
+A project by me showing the use of Statefull Widget
 
 ## Getting Started
 
